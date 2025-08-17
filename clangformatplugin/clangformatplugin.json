@@ -1,0 +1,8 @@
+{
+  "name": "ClangFormatPlugin",
+  "version": "0.1.0",
+  "author": "Example",
+  "description": "Format current file using clang-format",
+  "actions": ["format"],
+  "settings": ["clangFormatPath"]
+}
